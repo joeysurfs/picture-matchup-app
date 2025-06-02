@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Photo Matchup App
+Comment=Sort photos by preference
+Exec=/home/joe/picture-matchup-app/start_photo_matchup.sh
+Icon=/home/joe/picture-matchup-app/icon.png
+Terminal=false
+Categories=Graphics;
+X-GNOME-Autostart-enabled=true
